@@ -1,3 +1,3 @@
 # test-repo
 
-dadderaa
+This is a simple test.
