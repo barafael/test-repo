@@ -4,4 +4,5 @@ This is a simple test.
 
 This is more test text.
 
-This is the conflict.
+This was the conflict.
+This will clash.
